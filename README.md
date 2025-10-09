@@ -1,2 +1,7 @@
-# quickFindLost.github.io
-闪寻
+# 概念
+
+## 流程图
+![流程图](./images/QFind.png)
+
+## ER图
+![ER图](./images/ER图.png)
