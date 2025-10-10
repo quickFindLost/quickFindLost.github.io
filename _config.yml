@@ -1,6 +1,14 @@
 remote_theme: just-the-docs/just-the-docs
 title: 闪寻
 description: 基于大模型和微信小程序的失物招领平台
+url: https://quickfindlost.github.io/
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
+
+# Just the Docs 主题配置
+just_the_docs:
+  search_enabled: true
+  nav_enabled: true
+  heading_anchors: true
+  color_scheme: dark
