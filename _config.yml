@@ -1,5 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 title: 闪寻
 description: 基于大模型和微信小程序的失物招领平台
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
