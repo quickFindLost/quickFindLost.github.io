@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 产品简介
+nav_order: 1
 ---
 
 # 闪寻
@@ -11,9 +12,3 @@ title: 产品简介
 - ✅ 私有化部署
 - ✅ 大模型匹配
 - ✅ 主动推送
-
-## 流程图
-![流程图](./images/QFind.png)
-
-## ER图
-![ER图](./images/ER图.png)
